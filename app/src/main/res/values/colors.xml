@@ -11,6 +11,7 @@
 
     <color name="background">#4c5454</color>
     <color name="primary">#ff715b</color>
+    <color name="primary_shadow">#c73e29</color>
     <color name="secondary">#1ea896</color>
     <color name="tertiary">#523f38</color>
 
